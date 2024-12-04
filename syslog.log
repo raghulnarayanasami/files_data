@@ -1,0 +1,510 @@
+Dec  3 20:28:55 iadaz01acgpu02 systemd[1]: Created slice Slice /system/getty.
+Dec  3 20:28:55 iadaz01acgpu02 sensors[2387]: coretemp-isa-0001
+Dec  3 20:28:55 iadaz01acgpu02 sensors[2387]: Adapter: ISA adapter
+Dec  3 20:28:55 iadaz01acgpu02 sensors[2387]: Package id 1:  +32.0°C  (high = +82.0°C, crit = +90.0°C)
+Dec  3 20:28:55 iadaz01acgpu02 sensors[2387]: Core 0:        +30.0°C  (high = +82.0°C, crit = +90.0°C)
+Dec  3 20:28:55 iadaz01acgpu02 sensors[2387]: Core 1:        +29.0°C  (high = +82.0°C, crit = +90.0°C)
+Dec  3 20:28:55 iadaz01acgpu02 sensors[2387]: Core 2:        +27.0°C  (high = +82.0°C, crit = +90.0°C)
+Dec  3 20:28:55 iadaz01acgpu02 sensors[2387]: Core 3:        +29.0°C  (high = +82.0°C, crit = +90.0°C)
+Dec  3 20:28:55 iadaz01acgpu02 sensors[2387]: Core 4:        +30.0°C  (high = +82.0°C, crit = +90.0°C)
+Dec  3 20:28:55 iadaz01acgpu02 sensors[2387]: Core 5:        +29.0°C  (high = +82.0°C, crit = +90.0°C)
+Dec  3 20:28:55 iadaz01acgpu02 sensors[2387]: Core 6:        +31.0°C  (high = +82.0°C, crit = +90.0°C)
+Dec  3 20:28:55 iadaz01acgpu02 sensors[2387]: Core 7:        +32.0°C  (high = +82.0°C, crit = +90.0°C)
+Dec  3 20:28:55 iadaz01acgpu02 sensors[2387]: Core 8:        +25.0°C  (high = +82.0°C, crit = +90.0°C)
+Dec  3 20:28:55 iadaz01acgpu02 sensors[2387]: Core 9:        +30.0°C  (high = +82.0°C, crit = +90.0°C)
+Dec  3 20:28:55 iadaz01acgpu02 sensors[2387]: Core 10:       +31.0°C  (high = +82.0°C, crit = +90.0°C)
+Dec  3 20:28:55 iadaz01acgpu02 sensors[2387]: Core 11:       +26.0°C  (high = +82.0°C, crit = +90.0°C)
+Dec  3 20:28:55 iadaz01acgpu02 sensors[2387]: Core 12:       +29.0°C  (high = +82.0°C, crit = +90.0°C)
+Dec  3 20:28:55 iadaz01acgpu02 sensors[2387]: Core 13:       +29.0°C  (high = +82.0°C, crit = +90.0°C)
+Dec  3 20:28:55 iadaz01acgpu02 sensors[2387]: Core 14:       +32.0°C  (high = +82.0°C, crit = +90.0°C)
+Dec  3 20:28:55 iadaz01acgpu02 sensors[2387]: Core 15:       +29.0°C  (high = +82.0°C, crit = +90.0°C)
+Dec  3 20:28:55 iadaz01acgpu02 sensors[2387]: Core 16:       +29.0°C  (high = +82.0°C, crit = +90.0°C)
+Dec  3 20:28:55 iadaz01acgpu02 sensors[2387]: Core 17:       +31.0°C  (high = +82.0°C, crit = +90.0°C)
+Dec  3 20:28:55 iadaz01acgpu02 sensors[2387]: Core 18:       +30.0°C  (high = +82.0°C, crit = +90.0°C)
+Dec  3 20:28:55 iadaz01acgpu02 sensors[2387]: Core 19:       +27.0°C  (high = +82.0°C, crit = +90.0°C)
+Dec  3 20:28:55 iadaz01acgpu02 sensors[2387]: Core 20:       +27.0°C  (high = +82.0°C, crit = +90.0°C)
+Dec  3 20:28:55 iadaz01acgpu02 sensors[2387]: Core 21:       +26.0°C  (high = +82.0°C, crit = +90.0°C)
+Dec  3 20:28:55 iadaz01acgpu02 sensors[2387]: Core 22:       +29.0°C  (high = +82.0°C, crit = +90.0°C)
+Dec  3 20:28:55 iadaz01acgpu02 sensors[2387]: Core 23:       +29.0°C  (high = +82.0°C, crit = +90.0°C)
+Dec  3 20:28:55 iadaz01acgpu02 sensors[2387]: Core 24:       +28.0°C  (high = +82.0°C, crit = +90.0°C)
+Dec  3 20:28:55 iadaz01acgpu02 sensors[2387]: Core 25:       +28.0°C  (high = +82.0°C, crit = +90.0°C)
+Dec  3 20:28:55 iadaz01acgpu02 sensors[2387]: Core 26:       +29.0°C  (high = +82.0°C, crit = +90.0°C)
+Dec  3 20:28:55 iadaz01acgpu02 sensors[2387]: Core 27:       +29.0°C  (high = +82.0°C, crit = +90.0°C)
+Dec  3 20:28:55 iadaz01acgpu02 sensors[2387]: Core 28:       +29.0°C  (high = +82.0°C, crit = +90.0°C)
+Dec  3 20:28:55 iadaz01acgpu02 sensors[2387]: Core 29:       +30.0°C  (high = +82.0°C, crit = +90.0°C)
+Dec  3 20:28:55 iadaz01acgpu02 sensors[2387]: Core 30:       +30.0°C  (high = +82.0°C, crit = +90.0°C)
+Dec  3 20:28:55 iadaz01acgpu02 sensors[2387]: Core 31:       +28.0°C  (high = +82.0°C, crit = +90.0°C)
+Dec  3 20:28:55 iadaz01acgpu02 sensors[2387]: power_meter-acpi-0
+Dec  3 20:28:55 iadaz01acgpu02 sensors[2387]: Adapter: ACPI interface
+Dec  3 20:28:55 iadaz01acgpu02 sensors[2387]: power1:      605.00 W  (interval = 300.00 s)
+Dec  3 20:28:55 iadaz01acgpu02 sensors[2387]: nvme-pci-0200
+Dec  3 20:28:55 iadaz01acgpu02 sensors[2387]: Adapter: PCI adapter
+Dec  3 20:28:55 iadaz01acgpu02 sensors[2387]: Composite:    +63.9°C  (low  = -273.1°C, high = +95.8°C)
+Dec  3 20:28:55 iadaz01acgpu02 sensors[2387]:                        (crit = +99.8°C)
+Dec  3 20:28:55 iadaz01acgpu02 sensors[2387]: Sensor 1:     +63.9°C  (low  = -273.1°C, high = +95.8°C)
+Dec  3 20:28:55 iadaz01acgpu02 sensors[2387]: Sensor 2:     +42.9°C  (low  = -273.1°C, high = +95.8°C)
+Dec  3 20:28:55 iadaz01acgpu02 sensors[2387]: Sensor 3:     +43.9°C  (low  = -273.1°C, high = +95.8°C)
+Dec  3 20:28:55 iadaz01acgpu02 sensors[2387]: coretemp-isa-0000
+Dec  3 20:28:55 iadaz01acgpu02 sensors[2387]: Adapter: ISA adapter
+Dec  3 20:28:55 iadaz01acgpu02 sensors[2387]: Package id 0:  +35.0°C  (high = +82.0°C, crit = +90.0°C)
+Dec  3 20:28:55 iadaz01acgpu02 sensors[2387]: Core 0:        +35.0°C  (high = +82.0°C, crit = +90.0°C)
+Dec  3 20:28:55 iadaz01acgpu02 sensors[2387]: Core 1:        +31.0°C  (high = +82.0°C, crit = +90.0°C)
+Dec  3 20:28:55 iadaz01acgpu02 sensors[2387]: Core 2:        +33.0°C  (high = +82.0°C, crit = +90.0°C)
+Dec  3 20:28:55 iadaz01acgpu02 sensors[2387]: Core 3:        +35.0°C  (high = +82.0°C, crit = +90.0°C)
+Dec  3 20:28:55 iadaz01acgpu02 sensors[2387]: Core 4:        +31.0°C  (high = +82.0°C, crit = +90.0°C)
+Dec  3 20:28:55 iadaz01acgpu02 sensors[2387]: Core 5:        +34.0°C  (high = +82.0°C, crit = +90.0°C)
+Dec  3 20:28:55 iadaz01acgpu02 sensors[2387]: Core 6:        +34.0°C  (high = +82.0°C, crit = +90.0°C)
+Dec  3 20:28:55 iadaz01acgpu02 sensors[2387]: Core 7:        +33.0°C  (high = +82.0°C, crit = +90.0°C)
+Dec  3 20:28:55 iadaz01acgpu02 sensors[2387]: Core 8:        +30.0°C  (high = +82.0°C, crit = +90.0°C)
+Dec  3 20:28:55 iadaz01acgpu02 sensors[2387]: Core 9:        +28.0°C  (high = +82.0°C, crit = +90.0°C)
+Dec  3 20:28:55 iadaz01acgpu02 sensors[2387]: Core 10:       +32.0°C  (high = +82.0°C, crit = +90.0°C)
+Dec  3 20:28:55 iadaz01acgpu02 sensors[2387]: Core 11:       +31.0°C  (high = +82.0°C, crit = +90.0°C)
+Dec  3 20:28:55 iadaz01acgpu02 sensors[2387]: Core 12:       +29.0°C  (high = +82.0°C, crit = +90.0°C)
+Dec  3 20:28:55 iadaz01acgpu02 sensors[2387]: Core 13:       +32.0°C  (high = +82.0°C, crit = +90.0°C)
+Dec  3 20:28:55 iadaz01acgpu02 sensors[2387]: Core 14:       +32.0°C  (high = +82.0°C, crit = +90.0°C)
+Dec  3 20:28:55 iadaz01acgpu02 sensors[2387]: Core 15:       +31.0°C  (high = +82.0°C, crit = +90.0°C)
+Dec  3 20:28:55 iadaz01acgpu02 sensors[2387]: Core 16:       +31.0°C  (high = +82.0°C, crit = +90.0°C)
+Dec  3 20:28:55 iadaz01acgpu02 sensors[2387]: Core 17:       +31.0°C  (high = +82.0°C, crit = +90.0°C)
+Dec  3 20:28:55 iadaz01acgpu02 sensors[2387]: Core 18:       +31.0°C  (high = +82.0°C, crit = +90.0°C)
+Dec  3 20:28:55 iadaz01acgpu02 sensors[2387]: Core 19:       +32.0°C  (high = +82.0°C, crit = +90.0°C)
+Dec  3 20:28:55 iadaz01acgpu02 sensors[2387]: Core 20:       +32.0°C  (high = +82.0°C, crit = +90.0°C)
+Dec  3 20:28:55 iadaz01acgpu02 sensors[2387]: Core 21:       +32.0°C  (high = +82.0°C, crit = +90.0°C)
+Dec  3 20:28:55 iadaz01acgpu02 sensors[2387]: Core 22:       +30.0°C  (high = +82.0°C, crit = +90.0°C)
+Dec  3 20:28:55 iadaz01acgpu02 sensors[2387]: Core 23:       +30.0°C  (high = +82.0°C, crit = +90.0°C)
+Dec  3 20:28:55 iadaz01acgpu02 sensors[2387]: Core 24:       +30.0°C  (high = +82.0°C, crit = +90.0°C)
+Dec  3 20:28:55 iadaz01acgpu02 sensors[2387]: Core 25:       +31.0°C  (high = +82.0°C, crit = +90.0°C)
+Dec  3 20:28:55 iadaz01acgpu02 systemd[1]: Started Getty on tty1.
+Dec  3 20:28:55 iadaz01acgpu02 sensors[2387]: Core 26:       +31.0°C  (high = +82.0°C, crit = +90.0°C)
+Dec  3 20:28:55 iadaz01acgpu02 sensors[2387]: Core 27:       +31.0°C  (high = +82.0°C, crit = +90.0°C)
+Dec  3 20:28:55 iadaz01acgpu02 sensors[2387]: Core 28:       +28.0°C  (high = +82.0°C, crit = +90.0°C)
+Dec  3 20:28:55 iadaz01acgpu02 sensors[2387]: Core 29:       +32.0°C  (high = +82.0°C, crit = +90.0°C)
+Dec  3 20:28:55 iadaz01acgpu02 sensors[2387]: Core 30:       +29.0°C  (high = +82.0°C, crit = +90.0°C)
+Dec  3 20:28:55 iadaz01acgpu02 sensors[2387]: Core 31:       +30.0°C  (high = +82.0°C, crit = +90.0°C)
+Dec  3 20:28:55 iadaz01acgpu02 sensors[2387]: i350bb-pci-1100
+Dec  3 20:28:55 iadaz01acgpu02 sensors[2387]: Adapter: PCI adapter
+Dec  3 20:28:55 iadaz01acgpu02 sensors[2387]: loc1:         +53.0°C  (high = +120.0°C, crit = +110.0°C)
+Dec  3 20:28:55 iadaz01acgpu02 systemd[1]: Reached target Login Prompts.
+Dec  3 20:28:55 iadaz01acgpu02 systemd[1]: Finished Initialize hardware monitoring sensors.
+Dec  3 20:28:55 iadaz01acgpu02 systemd[1]: Started Dispatcher daemon for systemd-networkd.
+Dec  3 20:28:55 iadaz01acgpu02 systemd[1]: Started Disk Manager.
+Dec  3 20:28:55 iadaz01acgpu02 ModemManager[2439]: <info>  ModemManager (version 1.20.0) starting in system bus...
+Dec  3 20:28:55 iadaz01acgpu02 udisksd[2379]: Acquired the name org.freedesktop.UDisks2 on the system message bus
+Dec  3 20:28:55 iadaz01acgpu02 containerd[2384]: time="2024-12-03T20:28:55Z" level=warning msg="containerd config version `1` has been deprecated and will be converted on each startup in containerd v2.0, use `containerd config migrate` after upgrading to containerd 2.0 to avoid conversion on startup"
+Dec  3 20:28:55 iadaz01acgpu02 containerd[2384]: time="2024-12-03T20:28:55.770445139Z" level=info msg="starting containerd" revision=57f17b0a6295a39009d861b89e3b3b87b005ca27 version=1.7.23
+Dec  3 20:28:55 iadaz01acgpu02 systemd[1]: Started Modem Manager.
+Dec  3 20:28:55 iadaz01acgpu02 containerd[2384]: time="2024-12-03T20:28:55.786120374Z" level=info msg="loading plugin \"io.containerd.snapshotter.v1.aufs\"..." type=io.containerd.snapshotter.v1
+Dec  3 20:28:55 iadaz01acgpu02 containerd[2384]: time="2024-12-03T20:28:55.789098229Z" level=info msg="skip loading plugin \"io.containerd.snapshotter.v1.aufs\"..." error="aufs is not supported (modprobe aufs failed: exit status 1 \"modprobe: FATAL: Module aufs not found in directory /lib/modules/5.15.0-126-generic\\n\"): skip plugin" type=io.containerd.snapshotter.v1
+Dec  3 20:28:55 iadaz01acgpu02 containerd[2384]: time="2024-12-03T20:28:55.789198720Z" level=info msg="loading plugin \"io.containerd.event.v1.exchange\"..." type=io.containerd.event.v1
+Dec  3 20:28:55 iadaz01acgpu02 containerd[2384]: time="2024-12-03T20:28:55.789240598Z" level=info msg="loading plugin \"io.containerd.internal.v1.opt\"..." type=io.containerd.internal.v1
+Dec  3 20:28:55 iadaz01acgpu02 containerd[2384]: time="2024-12-03T20:28:55.789709169Z" level=info msg="loading plugin \"io.containerd.warning.v1.deprecations\"..." type=io.containerd.warning.v1
+Dec  3 20:28:55 iadaz01acgpu02 containerd[2384]: time="2024-12-03T20:28:55.789747869Z" level=info msg="loading plugin \"io.containerd.snapshotter.v1.blockfile\"..." type=io.containerd.snapshotter.v1
+Dec  3 20:28:55 iadaz01acgpu02 containerd[2384]: time="2024-12-03T20:28:55.789907540Z" level=info msg="skip loading plugin \"io.containerd.snapshotter.v1.blockfile\"..." error="no scratch file generator: skip plugin" type=io.containerd.snapshotter.v1
+Dec  3 20:28:55 iadaz01acgpu02 containerd[2384]: time="2024-12-03T20:28:55.789928624Z" level=info msg="loading plugin \"io.containerd.snapshotter.v1.btrfs\"..." type=io.containerd.snapshotter.v1
+Dec  3 20:28:55 iadaz01acgpu02 containerd[2384]: time="2024-12-03T20:28:55.790235374Z" level=info msg="skip loading plugin \"io.containerd.snapshotter.v1.btrfs\"..." error="path /var/lib/containerd/io.containerd.snapshotter.v1.btrfs (ext4) must be a btrfs filesystem to be used with the btrfs snapshotter: skip plugin" type=io.containerd.snapshotter.v1
+Dec  3 20:28:55 iadaz01acgpu02 containerd[2384]: time="2024-12-03T20:28:55.790259756Z" level=info msg="loading plugin \"io.containerd.snapshotter.v1.devmapper\"..." type=io.containerd.snapshotter.v1
+Dec  3 20:28:55 iadaz01acgpu02 containerd[2384]: time="2024-12-03T20:28:55.790283394Z" level=info msg="skip loading plugin \"io.containerd.snapshotter.v1.devmapper\"..." error="devmapper not configured: skip plugin" type=io.containerd.snapshotter.v1
+Dec  3 20:28:55 iadaz01acgpu02 containerd[2384]: time="2024-12-03T20:28:55.790303696Z" level=info msg="loading plugin \"io.containerd.snapshotter.v1.native\"..." type=io.containerd.snapshotter.v1
+Dec  3 20:28:55 iadaz01acgpu02 containerd[2384]: time="2024-12-03T20:28:55.790443109Z" level=info msg="loading plugin \"io.containerd.snapshotter.v1.overlayfs\"..." type=io.containerd.snapshotter.v1
+Dec  3 20:28:55 iadaz01acgpu02 containerd[2384]: time="2024-12-03T20:28:55.790637782Z" level=info msg="loading plugin \"io.containerd.snapshotter.v1.zfs\"..." type=io.containerd.snapshotter.v1
+Dec  3 20:28:55 iadaz01acgpu02 containerd[2384]: time="2024-12-03T20:28:55.790717498Z" level=info msg="skip loading plugin \"io.containerd.snapshotter.v1.zfs\"..." error="path /var/lib/containerd/io.containerd.snapshotter.v1.zfs must be a zfs filesystem to be used with the zfs snapshotter: skip plugin" type=io.containerd.snapshotter.v1
+Dec  3 20:28:55 iadaz01acgpu02 containerd[2384]: time="2024-12-03T20:28:55.790727786Z" level=info msg="loading plugin \"io.containerd.content.v1.content\"..." type=io.containerd.content.v1
+Dec  3 20:28:55 iadaz01acgpu02 containerd[2384]: time="2024-12-03T20:28:55.790850352Z" level=info msg="loading plugin \"io.containerd.metadata.v1.bolt\"..." type=io.containerd.metadata.v1
+Dec  3 20:28:55 iadaz01acgpu02 containerd[2384]: time="2024-12-03T20:28:55.790871996Z" level=info msg="metadata content store policy set" policy=shared
+Dec  3 20:28:55 iadaz01acgpu02 containerd[2384]: time="2024-12-03T20:28:55.792062221Z" level=info msg="loading plugin \"io.containerd.gc.v1.scheduler\"..." type=io.containerd.gc.v1
+Dec  3 20:28:55 iadaz01acgpu02 containerd[2384]: time="2024-12-03T20:28:55.792099250Z" level=info msg="loading plugin \"io.containerd.differ.v1.walking\"..." type=io.containerd.differ.v1
+Dec  3 20:28:55 iadaz01acgpu02 containerd[2384]: time="2024-12-03T20:28:55.792114539Z" level=info msg="loading plugin \"io.containerd.lease.v1.manager\"..." type=io.containerd.lease.v1
+Dec  3 20:28:55 iadaz01acgpu02 containerd[2384]: time="2024-12-03T20:28:55.792156751Z" level=info msg="loading plugin \"io.containerd.streaming.v1.manager\"..." type=io.containerd.streaming.v1
+Dec  3 20:28:55 iadaz01acgpu02 containerd[2384]: time="2024-12-03T20:28:55.792172596Z" level=info msg="loading plugin \"io.containerd.runtime.v1.linux\"..." type=io.containerd.runtime.v1
+Dec  3 20:28:55 iadaz01acgpu02 containerd[2384]: time="2024-12-03T20:28:55.792223324Z" level=info msg="loading plugin \"io.containerd.monitor.v1.cgroups\"..." type=io.containerd.monitor.v1
+Dec  3 20:28:55 iadaz01acgpu02 containerd[2384]: time="2024-12-03T20:28:55.792690252Z" level=info msg="loading plugin \"io.containerd.runtime.v2.task\"..." type=io.containerd.runtime.v2
+Dec  3 20:28:55 iadaz01acgpu02 containerd[2384]: time="2024-12-03T20:28:55.792856886Z" level=info msg="loading plugin \"io.containerd.runtime.v2.shim\"..." type=io.containerd.runtime.v2
+Dec  3 20:28:55 iadaz01acgpu02 containerd[2384]: time="2024-12-03T20:28:55.792879028Z" level=info msg="loading plugin \"io.containerd.sandbox.store.v1.local\"..." type=io.containerd.sandbox.store.v1
+Dec  3 20:28:55 iadaz01acgpu02 containerd[2384]: time="2024-12-03T20:28:55.792901788Z" level=info msg="loading plugin \"io.containerd.sandbox.controller.v1.local\"..." type=io.containerd.sandbox.controller.v1
+Dec  3 20:28:55 iadaz01acgpu02 containerd[2384]: time="2024-12-03T20:28:55.792925681Z" level=info msg="loading plugin \"io.containerd.service.v1.containers-service\"..." type=io.containerd.service.v1
+Dec  3 20:28:55 iadaz01acgpu02 containerd[2384]: time="2024-12-03T20:28:55.792945827Z" level=info msg="loading plugin \"io.containerd.service.v1.content-service\"..." type=io.containerd.service.v1
+Dec  3 20:28:55 iadaz01acgpu02 containerd[2384]: time="2024-12-03T20:28:55.792963945Z" level=info msg="loading plugin \"io.containerd.service.v1.diff-service\"..." type=io.containerd.service.v1
+Dec  3 20:28:55 iadaz01acgpu02 containerd[2384]: time="2024-12-03T20:28:55.792983036Z" level=info msg="loading plugin \"io.containerd.service.v1.images-service\"..." type=io.containerd.service.v1
+Dec  3 20:28:55 iadaz01acgpu02 containerd[2384]: time="2024-12-03T20:28:55.793003238Z" level=info msg="loading plugin \"io.containerd.service.v1.introspection-service\"..." type=io.containerd.service.v1
+Dec  3 20:28:55 iadaz01acgpu02 systemd[1]: Started User Login Management.
+Dec  3 20:28:55 iadaz01acgpu02 containerd[2384]: time="2024-12-03T20:28:55.793023696Z" level=info msg="loading plugin \"io.containerd.service.v1.namespaces-service\"..." type=io.containerd.service.v1
+Dec  3 20:28:55 iadaz01acgpu02 containerd[2384]: time="2024-12-03T20:28:55.793039529Z" level=info msg="loading plugin \"io.containerd.service.v1.snapshots-service\"..." type=io.containerd.service.v1
+Dec  3 20:28:55 iadaz01acgpu02 containerd[2384]: time="2024-12-03T20:28:55.793053898Z" level=info msg="loading plugin \"io.containerd.service.v1.tasks-service\"..." type=io.containerd.service.v1
+Dec  3 20:28:55 iadaz01acgpu02 containerd[2384]: time="2024-12-03T20:28:55.793085996Z" level=info msg="loading plugin \"io.containerd.grpc.v1.containers\"..." type=io.containerd.grpc.v1
+Dec  3 20:28:55 iadaz01acgpu02 containerd[2384]: time="2024-12-03T20:28:55.793103663Z" level=info msg="loading plugin \"io.containerd.grpc.v1.content\"..." type=io.containerd.grpc.v1
+Dec  3 20:28:55 iadaz01acgpu02 containerd[2384]: time="2024-12-03T20:28:55.793121651Z" level=info msg="loading plugin \"io.containerd.grpc.v1.diff\"..." type=io.containerd.grpc.v1
+Dec  3 20:28:55 iadaz01acgpu02 containerd[2384]: time="2024-12-03T20:28:55.793138708Z" level=info msg="loading plugin \"io.containerd.grpc.v1.events\"..." type=io.containerd.grpc.v1
+Dec  3 20:28:55 iadaz01acgpu02 containerd[2384]: time="2024-12-03T20:28:55.793153161Z" level=info msg="loading plugin \"io.containerd.grpc.v1.images\"..." type=io.containerd.grpc.v1
+Dec  3 20:28:55 iadaz01acgpu02 containerd[2384]: time="2024-12-03T20:28:55.793175797Z" level=info msg="loading plugin \"io.containerd.grpc.v1.introspection\"..." type=io.containerd.grpc.v1
+Dec  3 20:28:55 iadaz01acgpu02 containerd[2384]: time="2024-12-03T20:28:55.793194116Z" level=info msg="loading plugin \"io.containerd.grpc.v1.leases\"..." type=io.containerd.grpc.v1
+Dec  3 20:28:55 iadaz01acgpu02 containerd[2384]: time="2024-12-03T20:28:55.793219031Z" level=info msg="loading plugin \"io.containerd.grpc.v1.namespaces\"..." type=io.containerd.grpc.v1
+Dec  3 20:28:55 iadaz01acgpu02 containerd[2384]: time="2024-12-03T20:28:55.793239241Z" level=info msg="loading plugin \"io.containerd.grpc.v1.sandbox-controllers\"..." type=io.containerd.grpc.v1
+Dec  3 20:28:55 iadaz01acgpu02 containerd[2384]: time="2024-12-03T20:28:55.793264594Z" level=info msg="loading plugin \"io.containerd.grpc.v1.sandboxes\"..." type=io.containerd.grpc.v1
+Dec  3 20:28:55 iadaz01acgpu02 containerd[2384]: time="2024-12-03T20:28:55.793282609Z" level=info msg="loading plugin \"io.containerd.grpc.v1.snapshots\"..." type=io.containerd.grpc.v1
+Dec  3 20:28:55 iadaz01acgpu02 containerd[2384]: time="2024-12-03T20:28:55.793298445Z" level=info msg="loading plugin \"io.containerd.grpc.v1.streaming\"..." type=io.containerd.grpc.v1
+Dec  3 20:28:55 iadaz01acgpu02 containerd[2384]: time="2024-12-03T20:28:55.793312793Z" level=info msg="loading plugin \"io.containerd.grpc.v1.tasks\"..." type=io.containerd.grpc.v1
+Dec  3 20:28:55 iadaz01acgpu02 containerd[2384]: time="2024-12-03T20:28:55.793330363Z" level=info msg="loading plugin \"io.containerd.transfer.v1.local\"..." type=io.containerd.transfer.v1
+Dec  3 20:28:55 iadaz01acgpu02 containerd[2384]: time="2024-12-03T20:28:55.793356291Z" level=info msg="loading plugin \"io.containerd.grpc.v1.transfer\"..." type=io.containerd.grpc.v1
+Dec  3 20:28:55 iadaz01acgpu02 containerd[2384]: time="2024-12-03T20:28:55.793374032Z" level=info msg="loading plugin \"io.containerd.grpc.v1.version\"..." type=io.containerd.grpc.v1
+Dec  3 20:28:55 iadaz01acgpu02 containerd[2384]: time="2024-12-03T20:28:55.793387251Z" level=info msg="loading plugin \"io.containerd.internal.v1.restart\"..." type=io.containerd.internal.v1
+Dec  3 20:28:55 iadaz01acgpu02 containerd[2384]: time="2024-12-03T20:28:55.793792544Z" level=info msg="loading plugin \"io.containerd.tracing.processor.v1.otlp\"..." type=io.containerd.tracing.processor.v1
+Dec  3 20:28:55 iadaz01acgpu02 containerd[2384]: time="2024-12-03T20:28:55.793817214Z" level=info msg="skip loading plugin \"io.containerd.tracing.processor.v1.otlp\"..." error="skip plugin: tracing endpoint not configured" type=io.containerd.tracing.processor.v1
+Dec  3 20:28:55 iadaz01acgpu02 containerd[2384]: time="2024-12-03T20:28:55.793840767Z" level=info msg="loading plugin \"io.containerd.internal.v1.tracing\"..." type=io.containerd.internal.v1
+Dec  3 20:28:55 iadaz01acgpu02 containerd[2384]: time="2024-12-03T20:28:55.793856764Z" level=info msg="skip loading plugin \"io.containerd.internal.v1.tracing\"..." error="skip plugin: tracing endpoint not configured" type=io.containerd.internal.v1
+Dec  3 20:28:55 iadaz01acgpu02 containerd[2384]: time="2024-12-03T20:28:55.793888638Z" level=info msg="loading plugin \"io.containerd.grpc.v1.healthcheck\"..." type=io.containerd.grpc.v1
+Dec  3 20:28:55 iadaz01acgpu02 containerd[2384]: time="2024-12-03T20:28:55.793907129Z" level=info msg="loading plugin \"io.containerd.nri.v1.nri\"..." type=io.containerd.nri.v1
+Dec  3 20:28:55 iadaz01acgpu02 containerd[2384]: time="2024-12-03T20:28:55.793926508Z" level=info msg="NRI interface is disabled by configuration."
+Dec  3 20:28:55 iadaz01acgpu02 containerd[2384]: time="2024-12-03T20:28:55.794233198Z" level=info msg=serving... address=/run/containerd/containerd.sock.ttrpc
+Dec  3 20:28:55 iadaz01acgpu02 containerd[2384]: time="2024-12-03T20:28:55.794271122Z" level=info msg=serving... address=/run/containerd/containerd.sock
+Dec  3 20:28:55 iadaz01acgpu02 containerd[2384]: time="2024-12-03T20:28:55.794362574Z" level=info msg="containerd successfully booted in 0.025795s"
+Dec  3 20:28:55 iadaz01acgpu02 systemd[1]: Started containerd container runtime.
+Dec  3 20:28:55 iadaz01acgpu02 systemd[1]: Starting Docker Application Container Engine...
+Dec  3 20:28:55 iadaz01acgpu02 systemd[1]: Started Unattended Upgrades Shutdown.
+Dec  3 20:28:55 iadaz01acgpu02 dockerd[2486]: time="2024-12-03T20:28:55.887723527Z" level=info msg="Starting up"
+Dec  3 20:28:55 iadaz01acgpu02 dockerd[2486]: time="2024-12-03T20:28:55.889962350Z" level=info msg="detected 127.0.0.53 nameserver, assuming systemd-resolved, so using resolv.conf: /run/systemd/resolve/resolv.conf"
+Dec  3 20:28:55 iadaz01acgpu02 kernel: [  143.582622] kauditd_printk_skb: 31 callbacks suppressed
+Dec  3 20:28:55 iadaz01acgpu02 kernel: [  143.582631] audit: type=1400 audit(1733257735.952:43): apparmor="STATUS" operation="profile_load" profile="unconfined" name="docker-default" pid=2528 comm="apparmor_parser"
+Dec  3 20:28:56 iadaz01acgpu02 dockerd[2486]: time="2024-12-03T20:28:56.548599182Z" level=info msg="[graphdriver] using prior storage driver: overlay2"
+Dec  3 20:28:56 iadaz01acgpu02 dockerd[2486]: time="2024-12-03T20:28:56.572440356Z" level=info msg="Loading containers: start."
+Dec  3 20:28:56 iadaz01acgpu02 systemd[1]: tmp-snap.rootfs_qyx8uD.mount: Deactivated successfully.
+Dec  3 20:28:57 iadaz01acgpu02 snapd[2363]: overlord.go:274: Acquiring state lock file
+Dec  3 20:28:57 iadaz01acgpu02 snapd[2363]: overlord.go:279: Acquired state lock file
+Dec  3 20:28:57 iadaz01acgpu02 snapd[2363]: daemon.go:250: started snapd/2.66.1 (series 16; classic) ubuntu/22.04 (amd64) linux/5.15.0-126-generic.
+Dec  3 20:28:57 iadaz01acgpu02 kernel: [  144.951854] loop6: detected capacity change from 0 to 8
+Dec  3 20:28:57 iadaz01acgpu02 systemd[1]: tmp-syscheck\x2dmountpoint\x2d781414508.mount: Deactivated successfully.
+Dec  3 20:28:57 iadaz01acgpu02 snapd[2363]: daemon.go:353: adjusting startup timeout by 45s (pessimistic estimate of 30s plus 5s per snap)
+Dec  3 20:28:57 iadaz01acgpu02 nvidia-persistenced: device 0000:59:00.0 - persistence mode enabled.
+Dec  3 20:28:57 iadaz01acgpu02 nvidia-persistenced: device 0000:59:00.0 - NUMA memory onlined.
+Dec  3 20:28:57 iadaz01acgpu02 nvidia-persistenced: device 0000:c2:00.0 - registered
+Dec  3 20:28:57 iadaz01acgpu02 snapd[2363]: backends.go:58: AppArmor status: apparmor is enabled and all features are available (using snapd provided apparmor_parser)
+Dec  3 20:28:57 iadaz01acgpu02 systemd[1]: Started Snap Daemon.
+Dec  3 20:28:57 iadaz01acgpu02 dbus-daemon[2333]: [system] Activating via systemd: service name='org.freedesktop.timedate1' unit='dbus-org.freedesktop.timedate1.service' requested by ':1.13' (uid=0 pid=2363 comm="/usr/lib/snapd/snapd " label="unconfined")
+Dec  3 20:28:57 iadaz01acgpu02 systemd[1]: Starting Time & Date Service...
+Dec  3 20:28:57 iadaz01acgpu02 lxd.activate[2361]: => Starting LXD activation
+Dec  3 20:28:57 iadaz01acgpu02 lxd.activate[2361]: ==> Loading snap configuration
+Dec  3 20:28:57 iadaz01acgpu02 lxd.activate[2361]: ==> Checking for socket activation support
+Dec  3 20:28:57 iadaz01acgpu02 dbus-daemon[2333]: [system] Successfully activated service 'org.freedesktop.timedate1'
+Dec  3 20:28:57 iadaz01acgpu02 systemd[1]: Started Time & Date Service.
+Dec  3 20:28:57 iadaz01acgpu02 systemd[1]: Finished Wait until snapd is fully seeded.
+Dec  3 20:28:57 iadaz01acgpu02 systemd[1]: Starting Cloud-init: Config Stage...
+Dec  3 20:28:57 iadaz01acgpu02 systemd[1]: Condition check resulted in Auto import assertions from block devices being skipped.
+Dec  3 20:28:57 iadaz01acgpu02 lxd.activate[2361]: ==> Setting LXD socket ownership
+Dec  3 20:28:57 iadaz01acgpu02 lxd.activate[2361]: ==> Setting LXD user socket ownership
+Dec  3 20:28:57 iadaz01acgpu02 lxd.activate[2361]: ==> LXD never started on this system, no need to start it now
+Dec  3 20:28:57 iadaz01acgpu02 systemd[1]: snap.lxd.activate.service: Deactivated successfully.
+Dec  3 20:28:57 iadaz01acgpu02 systemd[1]: Finished Service for snap application lxd.activate.
+Dec  3 20:28:57 iadaz01acgpu02 systemd[1]: snap.lxd.activate.service: Consumed 1.101s CPU time.
+Dec  3 20:28:57 iadaz01acgpu02 cloud-init[2776]: Cloud-init v. 24.3.1-0ubuntu0~22.04.1 running 'modules:config' at Tue, 03 Dec 2024 20:28:57 +0000. Up 145.46 seconds.
+Dec  3 20:28:57 iadaz01acgpu02 systemd[1]: Finished Cloud-init: Config Stage.
+Dec  3 20:28:58 iadaz01acgpu02 kernel: [  145.766438] Initializing XFRM netlink socket
+Dec  3 20:28:58 iadaz01acgpu02 kernel: [  145.804028] bridge: filtering via arp/ip/ip6tables is no longer available by default. Update your scripts to load br_netfilter if you need this.
+Dec  3 20:28:58 iadaz01acgpu02 systemd-udevd[2685]: Using default interface naming scheme 'v249'.
+Dec  3 20:28:58 iadaz01acgpu02 networkd-dispatcher[2343]: WARNING:Unknown index 11 seen, reloading interface list
+Dec  3 20:28:58 iadaz01acgpu02 ModemManager[2439]: <info>  [base-manager] couldn't check support for device '/sys/devices/pci0000:10/0000:10:05.0/0000:11:00.0': not supported by any plugin
+Dec  3 20:28:58 iadaz01acgpu02 ModemManager[2439]: <info>  [base-manager] couldn't check support for device '/sys/devices/pci0000:10/0000:10:05.0/0000:11:00.1': not supported by any plugin
+Dec  3 20:28:58 iadaz01acgpu02 ModemManager[2439]: <info>  [base-manager] couldn't check support for device '/sys/devices/pci0000:10/0000:10:05.0/0000:11:00.2': not supported by any plugin
+Dec  3 20:28:58 iadaz01acgpu02 ModemManager[2439]: <info>  [base-manager] couldn't check support for device '/sys/devices/pci0000:10/0000:10:05.0/0000:11:00.3': not supported by any plugin
+Dec  3 20:28:58 iadaz01acgpu02 ModemManager[2439]: <info>  [base-manager] couldn't check support for device '/sys/devices/pci0000:88/0000:88:01.0/0000:89:00.0': not supported by any plugin
+Dec  3 20:28:58 iadaz01acgpu02 ModemManager[2439]: <info>  [base-manager] couldn't check support for device '/sys/devices/pci0000:88/0000:88:01.0/0000:89:00.1': not supported by any plugin
+Dec  3 20:28:58 iadaz01acgpu02 ModemManager[2439]: <info>  [base-manager] couldn't check support for device '/sys/devices/pci0000:9b/0000:9b:01.0/0000:9c:00.0': not supported by any plugin
+Dec  3 20:28:58 iadaz01acgpu02 ModemManager[2439]: <info>  [base-manager] couldn't check support for device '/sys/devices/pci0000:9b/0000:9b:01.0/0000:9c:00.1': not supported by any plugin
+Dec  3 20:28:58 iadaz01acgpu02 systemd-networkd[2300]: docker0: Link UP
+Dec  3 20:28:58 iadaz01acgpu02 nvidia-persistenced: device 0000:c2:00.0 - persistence mode enabled.
+Dec  3 20:28:58 iadaz01acgpu02 nvidia-persistenced: device 0000:c2:00.0 - NUMA memory onlined.
+Dec  3 20:28:58 iadaz01acgpu02 nvidia-persistenced: Local RPC services initialized
+Dec  3 20:28:58 iadaz01acgpu02 systemd[1]: Started NVIDIA Persistence Daemon.
+Dec  3 20:28:59 iadaz01acgpu02 dockerd[2486]: time="2024-12-03T20:28:59.218620213Z" level=info msg="Default bridge (docker0) is assigned with an IP address 172.17.0.0/16. Daemon option --bip can be used to set a preferred IP address"
+Dec  3 20:28:59 iadaz01acgpu02 dockerd[2486]: time="2024-12-03T20:28:59.325916400Z" level=info msg="Loading containers: done."
+Dec  3 20:28:59 iadaz01acgpu02 dockerd[2486]: time="2024-12-03T20:28:59.343807597Z" level=warning msg="WARNING: bridge-nf-call-iptables is disabled"
+Dec  3 20:28:59 iadaz01acgpu02 dockerd[2486]: time="2024-12-03T20:28:59.343832698Z" level=warning msg="WARNING: bridge-nf-call-ip6tables is disabled"
+Dec  3 20:28:59 iadaz01acgpu02 dockerd[2486]: time="2024-12-03T20:28:59.343860705Z" level=info msg="Docker daemon" commit=41ca978 containerd-snapshotter=false storage-driver=overlay2 version=27.3.1
+Dec  3 20:28:59 iadaz01acgpu02 dockerd[2486]: time="2024-12-03T20:28:59.344020545Z" level=info msg="Daemon has completed initialization"
+Dec  3 20:28:59 iadaz01acgpu02 dockerd[2486]: time="2024-12-03T20:28:59.382074753Z" level=info msg="API listen on /run/docker.sock"
+Dec  3 20:28:59 iadaz01acgpu02 systemd[1]: Started Docker Application Container Engine.
+Dec  3 20:29:00 iadaz01acgpu02 systemd-timesyncd[2256]: Timed out waiting for reply from 91.189.91.157:123 (ntp.ubuntu.com).
+Dec  3 20:29:00 iadaz01acgpu02 systemd[1]: dmesg.service: Deactivated successfully.
+Dec  3 20:29:04 iadaz01acgpu02 pollinate[2347]: WARNING: Network communication failed [28]   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current#012                                 Dload  Upload   Total   Spent    Left  Speed#012#015  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     020:28:55.476205 *   Trying 185.125.189.54:443...#01220:28:55.676968 *   Trying 2620:2d:4000:1008::45:443...#01220:28:55.677328 * Immediate connect fail for 2620:2d:4000:1008::45: Network is unreachable#01220:28:55.677420 *   Trying 2620:2d:4000:1008::3af:443...#01220:28:55.677490 * Immediate connect fail for 2620:2d:4000:1008::3af: Network is unreachable#01220:28:55.677557 *   Trying 2620:2d:4000:1008::56:443...#01220:28:55.677622 * Immediate connect fail for 2620:2d:4000:1008::56: Network is unreachable#012#015  0     0    0     0    0     0      0      0 --:--:--  0:00:01 --:--:--     0#015  0     0    0     0    0     0      0      0 --:--:--  0:00:02 --:--:--     0#015  0     0    0     0    0     0      0      0 --:--:--  0:00:03 --:--:--     0#015  0     0    0
+Dec  3 20:29:04 iadaz01acgpu02 systemd[1]: pollinate.service: Deactivated successfully.
+Dec  3 20:29:04 iadaz01acgpu02 systemd[1]: Finished Pollinate to seed the pseudo random number generator.
+Dec  3 20:29:04 iadaz01acgpu02 systemd[1]: Starting OpenBSD Secure Shell server...
+Dec  3 20:29:04 iadaz01acgpu02 systemd[1]: Started OpenBSD Secure Shell server.
+Dec  3 20:29:04 iadaz01acgpu02 systemd[1]: Reached target Multi-User System.
+Dec  3 20:29:04 iadaz01acgpu02 systemd[1]: Reached target Graphical Interface.
+Dec  3 20:29:04 iadaz01acgpu02 systemd[1]: Starting Cloud-init: Final Stage...
+Dec  3 20:29:04 iadaz01acgpu02 systemd[1]: Starting Record Runlevel Change in UTMP...
+Dec  3 20:29:04 iadaz01acgpu02 systemd[1]: systemd-update-utmp-runlevel.service: Deactivated successfully.
+Dec  3 20:29:04 iadaz01acgpu02 systemd[1]: Finished Record Runlevel Change in UTMP.
+Dec  3 20:29:04 iadaz01acgpu02 cloud-init[2950]: Cloud-init v. 24.3.1-0ubuntu0~22.04.1 running 'modules:final' at Tue, 03 Dec 2024 20:29:04 +0000. Up 152.44 seconds.
+Dec  3 20:29:04 iadaz01acgpu02 cloud-init[2950]: Cloud-init v. 24.3.1-0ubuntu0~22.04.1 finished at Tue, 03 Dec 2024 20:29:04 +0000. Datasource DataSourceNone.  Up 152.48 seconds
+Dec  3 20:29:04 iadaz01acgpu02 systemd[1]: Finished Cloud-init: Final Stage.
+Dec  3 20:29:04 iadaz01acgpu02 systemd[1]: Reached target Cloud-init target.
+Dec  3 20:29:04 iadaz01acgpu02 systemd[1]: Startup finished in 3min 19.487s (firmware) + 7.361s (loader) + 21.064s (kernel) + 2min 11.463s (userspace) = 5min 59.376s.
+Dec  3 20:29:10 iadaz01acgpu02 systemd-timesyncd[2256]: Timed out waiting for reply from 185.125.190.57:123 (ntp.ubuntu.com).
+Dec  3 20:29:10 iadaz01acgpu02 systemd[1]: Created slice User Slice of UID 1001.
+Dec  3 20:29:10 iadaz01acgpu02 systemd[1]: Starting User Runtime Directory /run/user/1001...
+Dec  3 20:29:10 iadaz01acgpu02 systemd[1]: Finished User Runtime Directory /run/user/1001.
+Dec  3 20:29:10 iadaz01acgpu02 systemd[1]: Starting User Manager for UID 1001...
+Dec  3 20:29:10 iadaz01acgpu02 systemd[2954]: Queued start job for default target Main User Target.
+Dec  3 20:29:10 iadaz01acgpu02 systemd[2954]: Created slice User Application Slice.
+Dec  3 20:29:10 iadaz01acgpu02 systemd[2954]: Reached target Paths.
+Dec  3 20:29:10 iadaz01acgpu02 systemd[2954]: Reached target Timers.
+Dec  3 20:29:10 iadaz01acgpu02 systemd[2954]: Starting D-Bus User Message Bus Socket...
+Dec  3 20:29:10 iadaz01acgpu02 systemd[2954]: Listening on GnuPG network certificate management daemon.
+Dec  3 20:29:10 iadaz01acgpu02 systemd[2954]: Listening on GnuPG cryptographic agent and passphrase cache (access for web browsers).
+Dec  3 20:29:10 iadaz01acgpu02 systemd[2954]: Listening on GnuPG cryptographic agent and passphrase cache (restricted).
+Dec  3 20:29:10 iadaz01acgpu02 systemd[2954]: Listening on GnuPG cryptographic agent (ssh-agent emulation).
+Dec  3 20:29:10 iadaz01acgpu02 systemd[2954]: Listening on GnuPG cryptographic agent and passphrase cache.
+Dec  3 20:29:10 iadaz01acgpu02 systemd[2954]: Listening on debconf communication socket.
+Dec  3 20:29:10 iadaz01acgpu02 systemd[2954]: Listening on REST API socket for snapd user session agent.
+Dec  3 20:29:10 iadaz01acgpu02 systemd[2954]: Listening on D-Bus User Message Bus Socket.
+Dec  3 20:29:10 iadaz01acgpu02 systemd[2954]: Reached target Sockets.
+Dec  3 20:29:10 iadaz01acgpu02 systemd[2954]: Reached target Basic System.
+Dec  3 20:29:10 iadaz01acgpu02 systemd[2954]: Reached target Main User Target.
+Dec  3 20:29:10 iadaz01acgpu02 systemd[2954]: Startup finished in 66ms.
+Dec  3 20:29:10 iadaz01acgpu02 systemd[1]: Started User Manager for UID 1001.
+Dec  3 20:29:10 iadaz01acgpu02 systemd[1]: Started Session 1 of User lalaka.
+Dec  3 20:29:28 iadaz01acgpu02 systemd[1]: systemd-timedated.service: Deactivated successfully.
+Dec  3 20:29:52 iadaz01acgpu02 systemd-timesyncd[2256]: Timed out waiting for reply from 91.189.91.157:123 (ntp.ubuntu.com).
+Dec  3 20:30:03 iadaz01acgpu02 systemd-timesyncd[2256]: Timed out waiting for reply from 185.125.190.56:123 (ntp.ubuntu.com).
+Dec  3 20:30:13 iadaz01acgpu02 systemd-timesyncd[2256]: Timed out waiting for reply from 185.125.190.57:123 (ntp.ubuntu.com).
+Dec  3 20:30:23 iadaz01acgpu02 systemd-timesyncd[2256]: Timed out waiting for reply from 185.125.190.58:123 (ntp.ubuntu.com).
+Dec  3 20:31:38 iadaz01acgpu02 systemd-timesyncd[2256]: Timed out waiting for reply from 185.125.190.56:123 (ntp.ubuntu.com).
+Dec  3 20:31:48 iadaz01acgpu02 systemd-timesyncd[2256]: Timed out waiting for reply from 91.189.91.157:123 (ntp.ubuntu.com).
+Dec  3 20:31:58 iadaz01acgpu02 systemd-timesyncd[2256]: Timed out waiting for reply from 185.125.190.58:123 (ntp.ubuntu.com).
+Dec  3 20:31:58 iadaz01acgpu02 systemd[1]: Starting Download data for packages that failed at package install time...
+Dec  3 20:31:58 iadaz01acgpu02 systemd[1]: update-notifier-download.service: Deactivated successfully.
+Dec  3 20:31:58 iadaz01acgpu02 systemd[1]: Finished Download data for packages that failed at package install time.
+Dec  3 20:32:08 iadaz01acgpu02 systemd-timesyncd[2256]: Timed out waiting for reply from 185.125.190.57:123 (ntp.ubuntu.com).
+Dec  3 20:32:40 iadaz01acgpu02 systemd[1]: Started Session 3 of User lalaka.
+Dec  3 20:33:58 iadaz01acgpu02 dbus-daemon[2333]: [system] Activating via systemd: service name='org.freedesktop.timedate1' unit='dbus-org.freedesktop.timedate1.service' requested by ':1.13' (uid=0 pid=2363 comm="/usr/lib/snapd/snapd " label="unconfined")
+Dec  3 20:33:58 iadaz01acgpu02 systemd[1]: Starting Time & Date Service...
+Dec  3 20:33:58 iadaz01acgpu02 dbus-daemon[2333]: [system] Successfully activated service 'org.freedesktop.timedate1'
+Dec  3 20:33:58 iadaz01acgpu02 systemd[1]: Started Time & Date Service.
+Dec  3 20:34:27 iadaz01acgpu02 systemd-timesyncd[2256]: Timed out waiting for reply from 185.125.190.57:123 (ntp.ubuntu.com).
+Dec  3 20:34:28 iadaz01acgpu02 systemd[1]: systemd-timedated.service: Deactivated successfully.
+Dec  3 20:34:37 iadaz01acgpu02 systemd-timesyncd[2256]: Timed out waiting for reply from 91.189.91.157:123 (ntp.ubuntu.com).
+Dec  3 20:34:47 iadaz01acgpu02 systemd-timesyncd[2256]: Timed out waiting for reply from 185.125.190.56:123 (ntp.ubuntu.com).
+Dec  3 20:34:58 iadaz01acgpu02 systemd-timesyncd[2256]: Timed out waiting for reply from 185.125.190.58:123 (ntp.ubuntu.com).
+Dec  3 20:35:34 iadaz01acgpu02 systemd[1]: Started Session 4 of User lalaka.
+Dec  3 20:38:57 iadaz01acgpu02 snapd[2363]: devicemgr.go:2566: no NTP sync after 10m0s, trying auto-refresh anyway
+Dec  3 20:38:58 iadaz01acgpu02 snapd[2363]: storehelpers.go:1044: cannot refresh: snap has no updates available: "core20", "lxd", "snapd"
+Dec  3 20:39:24 iadaz01acgpu02 systemd-timesyncd[2256]: Timed out waiting for reply from 91.189.91.157:123 (ntp.ubuntu.com).
+Dec  3 20:39:34 iadaz01acgpu02 systemd-timesyncd[2256]: Timed out waiting for reply from 185.125.190.56:123 (ntp.ubuntu.com).
+Dec  3 20:39:45 iadaz01acgpu02 systemd-timesyncd[2256]: Timed out waiting for reply from 185.125.190.57:123 (ntp.ubuntu.com).
+Dec  3 20:39:55 iadaz01acgpu02 systemd-timesyncd[2256]: Timed out waiting for reply from 185.125.190.58:123 (ntp.ubuntu.com).
+Dec  3 20:41:38 iadaz01acgpu02 systemd[1]: Starting Cleanup of Temporary Directories...
+Dec  3 20:41:38 iadaz01acgpu02 systemd[1]: systemd-tmpfiles-clean.service: Deactivated successfully.
+Dec  3 20:41:38 iadaz01acgpu02 systemd[1]: Finished Cleanup of Temporary Directories.
+Dec  3 20:48:27 iadaz01acgpu02 systemd-resolved[2307]: Grace period over, resuming full feature set (UDP+EDNS0) for DNS server 172.31.242.11.
+Dec  3 20:48:32 iadaz01acgpu02 systemd-resolved[2307]: Using degraded feature set TCP instead of UDP for DNS server 172.31.254.7.
+Dec  3 20:48:42 iadaz01acgpu02 systemd-timesyncd[2256]: Timed out waiting for reply from 185.125.190.57:123 (ntp.ubuntu.com).
+Dec  3 20:48:53 iadaz01acgpu02 systemd-timesyncd[2256]: Timed out waiting for reply from 185.125.190.56:123 (ntp.ubuntu.com).
+Dec  3 20:49:03 iadaz01acgpu02 systemd-timesyncd[2256]: Timed out waiting for reply from 91.189.91.157:123 (ntp.ubuntu.com).
+Dec  3 20:49:13 iadaz01acgpu02 systemd-timesyncd[2256]: Timed out waiting for reply from 185.125.190.58:123 (ntp.ubuntu.com).
+Dec  3 21:06:17 iadaz01acgpu02 systemd-resolved[2307]: Grace period over, resuming full feature set (UDP+EDNS0) for DNS server 172.31.254.7.
+Dec  3 21:06:22 iadaz01acgpu02 systemd-resolved[2307]: Using degraded feature set TCP instead of UDP for DNS server 172.31.254.8.
+Dec  3 21:06:33 iadaz01acgpu02 systemd-timesyncd[2256]: Timed out waiting for reply from 91.189.91.157:123 (ntp.ubuntu.com).
+Dec  3 21:06:43 iadaz01acgpu02 systemd-timesyncd[2256]: Timed out waiting for reply from 185.125.190.56:123 (ntp.ubuntu.com).
+Dec  3 21:06:53 iadaz01acgpu02 systemd-timesyncd[2256]: Timed out waiting for reply from 185.125.190.58:123 (ntp.ubuntu.com).
+Dec  3 21:07:03 iadaz01acgpu02 systemd-timesyncd[2256]: Timed out waiting for reply from 185.125.190.57:123 (ntp.ubuntu.com).
+Dec  3 21:17:01 iadaz01acgpu02 CRON[4443]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Dec  3 21:29:21 iadaz01acgpu02 systemd[1]: Started Session 6 of User lalaka.
+Dec  3 21:41:12 iadaz01acgpu02 systemd-resolved[2307]: Grace period over, resuming full feature set (UDP+EDNS0) for DNS server 172.31.254.8.
+Dec  3 21:41:32 iadaz01acgpu02 systemd-resolved[2307]: Using degraded feature set UDP instead of UDP+EDNS0 for DNS server 172.31.242.11.
+Dec  3 21:41:37 iadaz01acgpu02 systemd-resolved[2307]: Using degraded feature set UDP instead of UDP+EDNS0 for DNS server 172.31.254.7.
+Dec  3 21:41:42 iadaz01acgpu02 systemd-resolved[2307]: Using degraded feature set UDP instead of UDP+EDNS0 for DNS server 172.31.254.8.
+Dec  3 21:42:03 iadaz01acgpu02 systemd-resolved[2307]: Using degraded feature set TCP instead of UDP for DNS server 172.31.242.11.
+Dec  3 22:15:40 iadaz01acgpu02 systemd-resolved[2307]: Grace period over, resuming full feature set (UDP+EDNS0) for DNS server 172.31.242.11.
+Dec  3 22:15:45 iadaz01acgpu02 systemd-resolved[2307]: Using degraded feature set TCP instead of UDP for DNS server 172.31.254.7.
+Dec  3 22:15:55 iadaz01acgpu02 systemd-timesyncd[2256]: Timed out waiting for reply from 185.125.190.58:123 (ntp.ubuntu.com).
+Dec  3 22:16:05 iadaz01acgpu02 systemd-timesyncd[2256]: Timed out waiting for reply from 91.189.91.157:123 (ntp.ubuntu.com).
+Dec  3 22:16:16 iadaz01acgpu02 systemd-timesyncd[2256]: Timed out waiting for reply from 185.125.190.57:123 (ntp.ubuntu.com).
+Dec  3 22:16:26 iadaz01acgpu02 systemd-timesyncd[2256]: Timed out waiting for reply from 185.125.190.56:123 (ntp.ubuntu.com).
+Dec  3 22:17:01 iadaz01acgpu02 CRON[4638]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Dec  3 22:29:32 iadaz01acgpu02 systemd[1]: Started Session 8 of User lalaka.
+Dec  3 22:29:36 iadaz01acgpu02 systemd[1]: session-1.scope: Deactivated successfully.
+Dec  3 22:50:34 iadaz01acgpu02 systemd-resolved[2307]: Grace period over, resuming full feature set (UDP+EDNS0) for DNS server 172.31.254.7.
+Dec  3 22:50:39 iadaz01acgpu02 systemd-resolved[2307]: Using degraded feature set TCP instead of UDP for DNS server 172.31.254.8.
+Dec  3 22:50:49 iadaz01acgpu02 systemd-timesyncd[2256]: Timed out waiting for reply from 185.125.190.56:123 (ntp.ubuntu.com).
+Dec  3 22:51:00 iadaz01acgpu02 systemd-timesyncd[2256]: Timed out waiting for reply from 91.189.91.157:123 (ntp.ubuntu.com).
+Dec  3 22:51:10 iadaz01acgpu02 systemd-timesyncd[2256]: Timed out waiting for reply from 185.125.190.57:123 (ntp.ubuntu.com).
+Dec  3 22:51:20 iadaz01acgpu02 systemd-timesyncd[2256]: Timed out waiting for reply from 185.125.190.58:123 (ntp.ubuntu.com).
+Dec  3 22:53:38 iadaz01acgpu02 systemd[1]: session-3.scope: Deactivated successfully.
+Dec  3 23:17:01 iadaz01acgpu02 CRON[4764]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Dec  3 23:25:28 iadaz01acgpu02 systemd-resolved[2307]: Grace period over, resuming full feature set (UDP+EDNS0) for DNS server 172.31.254.8.
+Dec  3 23:25:49 iadaz01acgpu02 systemd-resolved[2307]: Using degraded feature set UDP instead of UDP+EDNS0 for DNS server 172.31.242.11.
+Dec  3 23:25:54 iadaz01acgpu02 systemd-resolved[2307]: Using degraded feature set UDP instead of UDP+EDNS0 for DNS server 172.31.254.7.
+Dec  3 23:25:59 iadaz01acgpu02 systemd-resolved[2307]: Using degraded feature set UDP instead of UDP+EDNS0 for DNS server 172.31.254.8.
+Dec  3 23:26:20 iadaz01acgpu02 systemd-resolved[2307]: Using degraded feature set TCP instead of UDP for DNS server 172.31.242.11.
+Dec  3 23:29:43 iadaz01acgpu02 systemd[1]: Started Session 10 of User lalaka.
+Dec  3 23:30:46 iadaz01acgpu02 systemd[1]: session-6.scope: Deactivated successfully.
+Dec  3 23:35:53 iadaz01acgpu02 systemd[1]: Started Session 11 of User lalaka.
+Dec  3 23:35:56 iadaz01acgpu02 systemd[1]: Started Session 12 of User lalaka.
+Dec  3 23:37:20 iadaz01acgpu02 systemd[1]: session-4.scope: Deactivated successfully.
+Dec  3 23:37:20 iadaz01acgpu02 systemd[1]: session-4.scope: Consumed 26min 26.385s CPU time.
+Dec  3 23:59:57 iadaz01acgpu02 systemd-resolved[2307]: Grace period over, resuming full feature set (UDP+EDNS0) for DNS server 172.31.242.11.
+Dec  4 00:00:02 iadaz01acgpu02 systemd-resolved[2307]: Using degraded feature set TCP instead of UDP for DNS server 172.31.254.7.
+Dec  4 00:00:02 iadaz01acgpu02 systemd[1]: Starting Daily dpkg database backup service...
+Dec  4 00:00:02 iadaz01acgpu02 systemd[1]: Starting Rotate log files...
+Dec  4 00:00:02 iadaz01acgpu02 systemd[1]: logrotate.service: Deactivated successfully.
+Dec  4 00:00:02 iadaz01acgpu02 systemd[1]: Finished Rotate log files.
+Dec  4 00:00:02 iadaz01acgpu02 systemd[1]: dpkg-db-backup.service: Deactivated successfully.
+Dec  4 00:00:02 iadaz01acgpu02 systemd[1]: Finished Daily dpkg database backup service.
+Dec  4 00:00:12 iadaz01acgpu02 systemd-timesyncd[2256]: Timed out waiting for reply from 91.189.91.157:123 (ntp.ubuntu.com).
+Dec  4 00:00:22 iadaz01acgpu02 systemd-timesyncd[2256]: Timed out waiting for reply from 185.125.190.58:123 (ntp.ubuntu.com).
+Dec  4 00:00:32 iadaz01acgpu02 systemd-timesyncd[2256]: Timed out waiting for reply from 185.125.190.56:123 (ntp.ubuntu.com).
+Dec  4 00:00:43 iadaz01acgpu02 systemd-timesyncd[2256]: Timed out waiting for reply from 185.125.190.57:123 (ntp.ubuntu.com).
+Dec  4 00:17:01 iadaz01acgpu02 CRON[9962]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Dec  4 00:29:45 iadaz01acgpu02 systemd[1]: session-8.scope: Deactivated successfully.
+Dec  4 00:29:53 iadaz01acgpu02 systemd[1]: Started Session 14 of User lalaka.
+Dec  4 00:34:51 iadaz01acgpu02 systemd-resolved[2307]: Grace period over, resuming full feature set (UDP+EDNS0) for DNS server 172.31.254.7.
+Dec  4 00:34:56 iadaz01acgpu02 systemd-resolved[2307]: Using degraded feature set TCP instead of UDP for DNS server 172.31.254.8.
+Dec  4 00:35:06 iadaz01acgpu02 systemd-timesyncd[2256]: Timed out waiting for reply from 185.125.190.56:123 (ntp.ubuntu.com).
+Dec  4 00:35:16 iadaz01acgpu02 systemd-timesyncd[2256]: Timed out waiting for reply from 91.189.91.157:123 (ntp.ubuntu.com).
+Dec  4 00:35:27 iadaz01acgpu02 systemd-timesyncd[2256]: Timed out waiting for reply from 185.125.190.57:123 (ntp.ubuntu.com).
+Dec  4 00:35:37 iadaz01acgpu02 systemd-timesyncd[2256]: Timed out waiting for reply from 185.125.190.58:123 (ntp.ubuntu.com).
+Dec  4 01:09:45 iadaz01acgpu02 systemd-resolved[2307]: Grace period over, resuming full feature set (UDP+EDNS0) for DNS server 172.31.254.8.
+Dec  4 01:10:05 iadaz01acgpu02 systemd-resolved[2307]: Using degraded feature set UDP instead of UDP+EDNS0 for DNS server 172.31.242.11.
+Dec  4 01:10:11 iadaz01acgpu02 systemd-resolved[2307]: Using degraded feature set UDP instead of UDP+EDNS0 for DNS server 172.31.254.7.
+Dec  4 01:10:16 iadaz01acgpu02 systemd-resolved[2307]: Using degraded feature set UDP instead of UDP+EDNS0 for DNS server 172.31.254.8.
+Dec  4 01:10:37 iadaz01acgpu02 systemd-resolved[2307]: Using degraded feature set TCP instead of UDP for DNS server 172.31.242.11.
+Dec  4 01:17:01 iadaz01acgpu02 CRON[11268]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Dec  4 01:21:37 iadaz01acgpu02 kernel: [17705.522724] perf: interrupt took too long (2544 > 2500), lowering kernel.perf_event_max_sample_rate to 78500
+Dec  4 01:23:33 iadaz01acgpu02 kernel: [17820.849242] perf: interrupt took too long (3230 > 3180), lowering kernel.perf_event_max_sample_rate to 61750
+Dec  4 01:28:33 iadaz01acgpu02 kernel: [18121.529785] perf: interrupt took too long (4073 > 4037), lowering kernel.perf_event_max_sample_rate to 49000
+Dec  4 01:30:04 iadaz01acgpu02 systemd[1]: Started Session 16 of User lalaka.
+Dec  4 01:30:55 iadaz01acgpu02 systemd[1]: session-10.scope: Deactivated successfully.
+Dec  4 01:44:24 iadaz01acgpu02 systemd-timesyncd[2256]: Timed out waiting for reply from 185.125.190.56:123 (ntp.ubuntu.com).
+Dec  4 01:44:34 iadaz01acgpu02 systemd-timesyncd[2256]: Timed out waiting for reply from 91.189.91.157:123 (ntp.ubuntu.com).
+Dec  4 01:44:44 iadaz01acgpu02 systemd-timesyncd[2256]: Timed out waiting for reply from 185.125.190.58:123 (ntp.ubuntu.com).
+Dec  4 01:44:54 iadaz01acgpu02 systemd-timesyncd[2256]: Timed out waiting for reply from 185.125.190.57:123 (ntp.ubuntu.com).
+Dec  4 02:17:01 iadaz01acgpu02 CRON[18200]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Dec  4 02:19:13 iadaz01acgpu02 systemd-timesyncd[2256]: Timed out waiting for reply from 185.125.190.58:123 (ntp.ubuntu.com).
+Dec  4 02:19:23 iadaz01acgpu02 systemd-timesyncd[2256]: Timed out waiting for reply from 185.125.190.57:123 (ntp.ubuntu.com).
+Dec  4 02:19:33 iadaz01acgpu02 systemd-timesyncd[2256]: Timed out waiting for reply from 91.189.91.157:123 (ntp.ubuntu.com).
+Dec  4 02:19:44 iadaz01acgpu02 systemd-timesyncd[2256]: Timed out waiting for reply from 185.125.190.56:123 (ntp.ubuntu.com).
+Dec  4 02:29:54 iadaz01acgpu02 systemd[1]: session-14.scope: Deactivated successfully.
+Dec  4 02:30:15 iadaz01acgpu02 systemd[1]: Started Session 18 of User lalaka.
+Dec  4 02:54:02 iadaz01acgpu02 systemd-timesyncd[2256]: Timed out waiting for reply from 185.125.190.57:123 (ntp.ubuntu.com).
+Dec  4 02:54:12 iadaz01acgpu02 systemd-timesyncd[2256]: Timed out waiting for reply from 91.189.91.157:123 (ntp.ubuntu.com).
+Dec  4 02:54:23 iadaz01acgpu02 systemd-timesyncd[2256]: Timed out waiting for reply from 185.125.190.56:123 (ntp.ubuntu.com).
+Dec  4 02:54:33 iadaz01acgpu02 systemd-timesyncd[2256]: Timed out waiting for reply from 185.125.190.58:123 (ntp.ubuntu.com).
+Dec  4 03:05:34 iadaz01acgpu02 systemd[1]: Started Session 19 of User lalaka.
+Dec  4 03:06:51 iadaz01acgpu02 systemd[1]: var-lib-docker-overlay2-5aac3d735fdb5f2c4ba55e30092ff8cda0acf2e402acb9271f45a2969cb11ff2\x2dinit-merged.mount: Deactivated successfully.
+Dec  4 03:06:51 iadaz01acgpu02 systemd-udevd[20224]: Using default interface naming scheme 'v249'.
+Dec  4 03:06:51 iadaz01acgpu02 systemd-timesyncd[2256]: Network configuration changed, trying to establish connection.
+Dec  4 03:06:51 iadaz01acgpu02 networkd-dispatcher[2343]: WARNING:Unknown index 12 seen, reloading interface list
+Dec  4 03:06:51 iadaz01acgpu02 kernel: [24019.360847] docker0: port 1(vethfa39aa9) entered blocking state
+Dec  4 03:06:51 iadaz01acgpu02 kernel: [24019.360852] docker0: port 1(vethfa39aa9) entered disabled state
+Dec  4 03:06:51 iadaz01acgpu02 kernel: [24019.360912] device vethfa39aa9 entered promiscuous mode
+Dec  4 03:06:51 iadaz01acgpu02 systemd-networkd[2300]: vethfa39aa9: Link UP
+Dec  4 03:06:51 iadaz01acgpu02 systemd-udevd[20222]: Using default interface naming scheme 'v249'.
+Dec  4 03:06:51 iadaz01acgpu02 containerd[2384]: time="2024-12-04T03:06:51.812010069Z" level=info msg="loading plugin \"io.containerd.event.v1.publisher\"..." runtime=io.containerd.runc.v2 type=io.containerd.event.v1
+Dec  4 03:06:51 iadaz01acgpu02 containerd[2384]: time="2024-12-04T03:06:51.812553148Z" level=info msg="loading plugin \"io.containerd.internal.v1.shutdown\"..." runtime=io.containerd.runc.v2 type=io.containerd.internal.v1
+Dec  4 03:06:51 iadaz01acgpu02 containerd[2384]: time="2024-12-04T03:06:51.812562537Z" level=info msg="loading plugin \"io.containerd.ttrpc.v1.task\"..." runtime=io.containerd.runc.v2 type=io.containerd.ttrpc.v1
+Dec  4 03:06:51 iadaz01acgpu02 containerd[2384]: time="2024-12-04T03:06:51.812639558Z" level=info msg="loading plugin \"io.containerd.ttrpc.v1.pause\"..." runtime=io.containerd.runc.v2 type=io.containerd.ttrpc.v1
+Dec  4 03:06:51 iadaz01acgpu02 systemd[1]: Started libcontainer container 6f9b7c34e89cb9a7cbd95cd063ec936c829329b8516afd39ec07f763aad346a2.
+Dec  4 03:06:51 iadaz01acgpu02 kernel: [24019.534930] ens18f0 speed is unknown, defaulting to 1000
+Dec  4 03:06:51 iadaz01acgpu02 kernel: [24019.536184] ens18f1 speed is unknown, defaulting to 1000
+Dec  4 03:06:51 iadaz01acgpu02 kernel: [24019.536443] ens5f0 speed is unknown, defaulting to 1000
+Dec  4 03:06:51 iadaz01acgpu02 kernel: [24019.536700] ens5f1 speed is unknown, defaulting to 1000
+Dec  4 03:06:52 iadaz01acgpu02 kernel: [24019.868747] eth0: renamed from veth3c7a8b3
+Dec  4 03:06:52 iadaz01acgpu02 systemd-networkd[2300]: vethfa39aa9: Gained carrier
+Dec  4 03:06:52 iadaz01acgpu02 systemd-networkd[2300]: docker0: Gained carrier
+Dec  4 03:06:52 iadaz01acgpu02 kernel: [24019.900640] IPv6: ADDRCONF(NETDEV_CHANGE): vethfa39aa9: link becomes ready
+Dec  4 03:06:52 iadaz01acgpu02 kernel: [24019.900795] docker0: port 1(vethfa39aa9) entered blocking state
+Dec  4 03:06:52 iadaz01acgpu02 kernel: [24019.900802] docker0: port 1(vethfa39aa9) entered forwarding state
+Dec  4 03:06:52 iadaz01acgpu02 kernel: [24019.900916] IPv6: ADDRCONF(NETDEV_CHANGE): docker0: link becomes ready
+Dec  4 03:06:53 iadaz01acgpu02 systemd-networkd[2300]: vethfa39aa9: Gained IPv6LL
+Dec  4 03:06:54 iadaz01acgpu02 systemd-networkd[2300]: docker0: Gained IPv6LL
+Dec  4 03:07:01 iadaz01acgpu02 systemd-timesyncd[2256]: Timed out waiting for reply from 185.125.190.58:123 (ntp.ubuntu.com).
+Dec  4 03:07:07 iadaz01acgpu02 kernel: [24034.952101] ens5f1 speed is unknown, defaulting to 1000
+Dec  4 03:07:07 iadaz01acgpu02 kernel: [24034.952322] ens5f1 speed is unknown, defaulting to 1000
+Dec  4 03:07:07 iadaz01acgpu02 kernel: [24034.952536] ens5f1 speed is unknown, defaulting to 1000
+Dec  4 03:07:07 iadaz01acgpu02 kernel: [24034.960843] ens18f1 speed is unknown, defaulting to 1000
+Dec  4 03:07:07 iadaz01acgpu02 kernel: [24034.961064] ens18f1 speed is unknown, defaulting to 1000
+Dec  4 03:07:07 iadaz01acgpu02 kernel: [24034.961278] ens18f1 speed is unknown, defaulting to 1000
+Dec  4 03:07:07 iadaz01acgpu02 kernel: [24034.979689] ens5f0 speed is unknown, defaulting to 1000
+Dec  4 03:07:07 iadaz01acgpu02 kernel: [24034.983696] ens5f0 speed is unknown, defaulting to 1000
+Dec  4 03:07:07 iadaz01acgpu02 kernel: [24034.983910] ens5f0 speed is unknown, defaulting to 1000
+Dec  4 03:07:07 iadaz01acgpu02 kernel: [24035.000881] ens18f0 speed is unknown, defaulting to 1000
+Dec  4 03:07:07 iadaz01acgpu02 kernel: [24035.001097] ens18f0 speed is unknown, defaulting to 1000
+Dec  4 03:07:07 iadaz01acgpu02 kernel: [24035.001309] ens18f0 speed is unknown, defaulting to 1000
+Dec  4 03:07:07 iadaz01acgpu02 kernel: [24035.101305] ens5f1 speed is unknown, defaulting to 1000
+Dec  4 03:07:07 iadaz01acgpu02 kernel: [24035.101522] ens5f1 speed is unknown, defaulting to 1000
+Dec  4 03:07:07 iadaz01acgpu02 kernel: [24035.101737] ens5f1 speed is unknown, defaulting to 1000
+Dec  4 03:07:07 iadaz01acgpu02 kernel: [24035.124390] ens18f1 speed is unknown, defaulting to 1000
+Dec  4 03:07:07 iadaz01acgpu02 kernel: [24035.125585] ens18f1 speed is unknown, defaulting to 1000
+Dec  4 03:07:07 iadaz01acgpu02 kernel: [24035.125800] ens18f1 speed is unknown, defaulting to 1000
+Dec  4 03:07:07 iadaz01acgpu02 kernel: [24035.137690] ens5f0 speed is unknown, defaulting to 1000
+Dec  4 03:07:07 iadaz01acgpu02 kernel: [24035.137905] ens5f0 speed is unknown, defaulting to 1000
+Dec  4 03:07:07 iadaz01acgpu02 kernel: [24035.138118] ens5f0 speed is unknown, defaulting to 1000
+Dec  4 03:07:07 iadaz01acgpu02 kernel: [24035.145505] ens18f0 speed is unknown, defaulting to 1000
+Dec  4 03:07:07 iadaz01acgpu02 kernel: [24035.145721] ens18f0 speed is unknown, defaulting to 1000
+Dec  4 03:07:07 iadaz01acgpu02 kernel: [24035.145934] ens18f0 speed is unknown, defaulting to 1000
+Dec  4 03:07:07 iadaz01acgpu02 kernel: [24035.406594] ens5f1 speed is unknown, defaulting to 1000
+Dec  4 03:07:07 iadaz01acgpu02 kernel: [24035.406811] ens5f1 speed is unknown, defaulting to 1000
+Dec  4 03:07:07 iadaz01acgpu02 kernel: [24035.407025] ens5f1 speed is unknown, defaulting to 1000
+Dec  4 03:07:07 iadaz01acgpu02 kernel: [24035.424260] ens18f1 speed is unknown, defaulting to 1000
+Dec  4 03:07:07 iadaz01acgpu02 kernel: [24035.424481] ens18f1 speed is unknown, defaulting to 1000
+Dec  4 03:07:07 iadaz01acgpu02 kernel: [24035.424695] ens18f1 speed is unknown, defaulting to 1000
+Dec  4 03:07:07 iadaz01acgpu02 kernel: [24035.428277] ens5f0 speed is unknown, defaulting to 1000
+Dec  4 03:07:07 iadaz01acgpu02 kernel: [24035.428491] ens5f0 speed is unknown, defaulting to 1000
+Dec  4 03:07:07 iadaz01acgpu02 kernel: [24035.428704] ens5f0 speed is unknown, defaulting to 1000
+Dec  4 03:07:07 iadaz01acgpu02 kernel: [24035.444136] ens18f0 speed is unknown, defaulting to 1000
+Dec  4 03:07:07 iadaz01acgpu02 kernel: [24035.444359] ens18f0 speed is unknown, defaulting to 1000
+Dec  4 03:07:07 iadaz01acgpu02 kernel: [24035.444572] ens18f0 speed is unknown, defaulting to 1000
+Dec  4 03:07:10 iadaz01acgpu02 kernel: [24038.590166] ens5f1 speed is unknown, defaulting to 1000
+Dec  4 03:07:10 iadaz01acgpu02 kernel: [24038.604454] ens5f1 speed is unknown, defaulting to 1000
+Dec  4 03:07:10 iadaz01acgpu02 kernel: [24038.604664] ens5f1 speed is unknown, defaulting to 1000
+Dec  4 03:07:10 iadaz01acgpu02 kernel: [24038.604871] ens5f1 speed is unknown, defaulting to 1000
+Dec  4 03:07:10 iadaz01acgpu02 kernel: [24038.605082] ens5f1 speed is unknown, defaulting to 1000
+Dec  4 03:07:10 iadaz01acgpu02 kernel: [24038.605290] ens5f1 speed is unknown, defaulting to 1000
+Dec  4 03:07:10 iadaz01acgpu02 kernel: [24038.624095] ens18f1 speed is unknown, defaulting to 1000
+Dec  4 03:07:10 iadaz01acgpu02 kernel: [24038.624327] ens18f1 speed is unknown, defaulting to 1000
+Dec  4 03:07:10 iadaz01acgpu02 kernel: [24038.624546] ens18f1 speed is unknown, defaulting to 1000
+Dec  4 03:07:10 iadaz01acgpu02 kernel: [24038.624757] ens18f1 speed is unknown, defaulting to 1000
+Dec  4 03:07:10 iadaz01acgpu02 kernel: [24038.624968] ens18f1 speed is unknown, defaulting to 1000
+Dec  4 03:07:10 iadaz01acgpu02 kernel: [24038.625215] ens18f1 speed is unknown, defaulting to 1000
+Dec  4 03:07:11 iadaz01acgpu02 kernel: [24038.628655] ens5f0 speed is unknown, defaulting to 1000
+Dec  4 03:07:11 iadaz01acgpu02 kernel: [24038.628875] ens5f0 speed is unknown, defaulting to 1000
+Dec  4 03:07:11 iadaz01acgpu02 kernel: [24038.629093] ens5f0 speed is unknown, defaulting to 1000
+Dec  4 03:07:11 iadaz01acgpu02 kernel: [24038.629498] ens5f0 speed is unknown, defaulting to 1000
+Dec  4 03:07:11 iadaz01acgpu02 kernel: [24038.629725] ens5f0 speed is unknown, defaulting to 1000
+Dec  4 03:07:11 iadaz01acgpu02 kernel: [24038.629940] ens5f0 speed is unknown, defaulting to 1000
+Dec  4 03:07:11 iadaz01acgpu02 kernel: [24038.644078] ens18f0 speed is unknown, defaulting to 1000
+Dec  4 03:07:11 iadaz01acgpu02 kernel: [24038.644294] ens18f0 speed is unknown, defaulting to 1000
+Dec  4 03:07:11 iadaz01acgpu02 kernel: [24038.644506] ens18f0 speed is unknown, defaulting to 1000
+Dec  4 03:07:11 iadaz01acgpu02 kernel: [24038.644717] ens18f0 speed is unknown, defaulting to 1000
+Dec  4 03:07:11 iadaz01acgpu02 kernel: [24038.644929] ens18f0 speed is unknown, defaulting to 1000
+Dec  4 03:07:11 iadaz01acgpu02 kernel: [24038.645139] ens18f0 speed is unknown, defaulting to 1000
+Dec  4 03:07:12 iadaz01acgpu02 systemd-timesyncd[2256]: Timed out waiting for reply from 185.125.190.57:123 (ntp.ubuntu.com).
+Dec  4 03:07:22 iadaz01acgpu02 systemd-timesyncd[2256]: Timed out waiting for reply from 91.189.91.157:123 (ntp.ubuntu.com).
+Dec  4 03:07:30 iadaz01acgpu02 systemd[1]: Started Session 20 of User lalaka.
+Dec  4 03:07:32 iadaz01acgpu02 systemd-timesyncd[2256]: Timed out waiting for reply from 185.125.190.56:123 (ntp.ubuntu.com).
+Dec  4 03:07:42 iadaz01acgpu02 systemd[1]: Started Session 21 of User lalaka.
+Dec  4 03:09:32 iadaz01acgpu02 systemd[1]: Started Session 22 of User lalaka.
+Dec  4 03:10:01 iadaz01acgpu02 CRON[21286]: (root) CMD (test -e /run/systemd/system || SERVICE_MODE=1 /sbin/e2scrub_all -A -r)
+Dec  4 03:17:01 iadaz01acgpu02 CRON[21434]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Dec  4 03:25:23 iadaz01acgpu02 systemd[1]: Started Session 25 of User lalaka.
+Dec  4 03:25:47 iadaz01acgpu02 systemd[1]: Started Session 26 of User lalaka.
+Dec  4 03:31:04 iadaz01acgpu02 systemd[1]: session-16.scope: Deactivated successfully.
+Dec  4 03:41:51 iadaz01acgpu02 systemd-timesyncd[2256]: Timed out waiting for reply from 91.189.91.157:123 (ntp.ubuntu.com).
+Dec  4 03:42:01 iadaz01acgpu02 systemd-timesyncd[2256]: Timed out waiting for reply from 185.125.190.57:123 (ntp.ubuntu.com).
+Dec  4 03:42:11 iadaz01acgpu02 systemd-timesyncd[2256]: Timed out waiting for reply from 185.125.190.56:123 (ntp.ubuntu.com).
+Dec  4 03:42:21 iadaz01acgpu02 systemd-timesyncd[2256]: Timed out waiting for reply from 185.125.190.58:123 (ntp.ubuntu.com).
+Dec  4 03:50:41 iadaz01acgpu02 dbus-daemon[2333]: [system] Activating via systemd: service name='org.freedesktop.PackageKit' unit='packagekit.service' requested by ':1.48' (uid=0 pid=22605 comm="/usr/bin/gdbus call --system --dest org.freedeskto" label="unconfined")
+Dec  4 03:50:41 iadaz01acgpu02 systemd[1]: Starting PackageKit Daemon...
+Dec  4 03:50:41 iadaz01acgpu02 PackageKit: daemon start
+Dec  4 03:50:41 iadaz01acgpu02 dbus-daemon[2333]: [system] Successfully activated service 'org.freedesktop.PackageKit'
+Dec  4 03:50:41 iadaz01acgpu02 systemd[1]: Started PackageKit Daemon.
+Dec  4 03:53:39 iadaz01acgpu02 systemd[1]: Started Session 27 of User lalaka.
+Dec  4 03:58:05 iadaz01acgpu02 systemd[1]: Started Session 28 of User lalaka.
+Dec  4 04:03:16 iadaz01acgpu02 systemd[1]: Started Session 29 of User lalaka.
+Dec  4 04:04:08 iadaz01acgpu02 snapd[2363]: storehelpers.go:1044: cannot refresh: snap has no updates available: "core20", "lxd", "snapd"
+Dec  4 04:12:33 iadaz01acgpu02 systemd[1]: Started Session 30 of User lalaka.
+Dec  4 04:12:54 iadaz01acgpu02 systemd[1]: session-30.scope: Deactivated successfully.
+Dec  4 04:16:40 iadaz01acgpu02 systemd-timesyncd[2256]: Timed out waiting for reply from 91.189.91.157:123 (ntp.ubuntu.com).
+Dec  4 04:16:50 iadaz01acgpu02 systemd-timesyncd[2256]: Timed out waiting for reply from 185.125.190.56:123 (ntp.ubuntu.com).
+Dec  4 04:17:00 iadaz01acgpu02 systemd-timesyncd[2256]: Timed out waiting for reply from 185.125.190.57:123 (ntp.ubuntu.com).
+Dec  4 04:17:01 iadaz01acgpu02 CRON[23580]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Dec  4 04:17:11 iadaz01acgpu02 systemd-timesyncd[2256]: Timed out waiting for reply from 185.125.190.58:123 (ntp.ubuntu.com).
